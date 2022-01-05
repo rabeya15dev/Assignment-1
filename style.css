@@ -1,0 +1,36 @@
+body{
+  font-family: 'Open Sans', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Roboto Mono', monospace;
+font-family: 'Roboto Slab', serif;
+}
+
+h1{
+  font-size: 50px;
+}
+h2{
+  font-size: 50px;
+}
+.blue-clr{
+  color: blue;
+}
+section{
+  display: flex;
+}
+.explore{
+  width: 50%;
+  padding-left: 5%;
+  padding-top: 5%;
+}
+.explore img{
+  width: 80%;
+}
+.link-button{
+  text-decoration: none;
+  background-image:linear-gradient(chartreuse ) ;
+  background-color: chartreuse;
+  padding: 10px 40px;
+  color: blue;
+  font-weight: 700;
+  border-radius: 6px;
+}
