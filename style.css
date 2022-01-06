@@ -105,4 +105,22 @@ h2{
 }
 footer p{
   text-align: center;
+  color: brown;
+  background-color: cornflowerblue;
+  width: 1500px;
+  height: 55px;
+  top: 3000px;
+  font-weight: 700;
+}
+
+
+/* form */
+
+form {
+  background-color: rgb(16, 137, 223);
+  max-width: 500px;
+  margin: 50px auto;
+  padding: 30px 20px;
+  box-shadow: 2px 5px 10px rgba(0, 0, 0, 0.5);
+  
 }
