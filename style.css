@@ -23,7 +23,7 @@ section{
   padding-top: 5%;
 }
 .explore img{
-  width: 80%;
+  width: 50%;
 }
 .link-button{
   text-decoration: none;
@@ -33,4 +33,76 @@ section{
   color: blue;
   font-weight: 700;
   border-radius: 6px;
+}
+
+ h4{
+  margin-bottom: 5%;
+  color: brown;
+}
+
+/* section 2 */
+h2{
+  text-align: center;
+ 
+}
+.heading-clr{
+ 
+  color: brown;
+ 
+}
+.leftdiv img{
+  max-width: 30%;
+  max-height: 30%;
+}
+.leftdiv{
+  float: left;
+  background-color: burlywood;
+  border-radius: 13px;
+  margin-left: 3%;
+  margin-top: 1%;
+}
+.textcenter{
+  text-align: justify;
+  padding: 2%;
+}
+.middlediv img{
+  max-height: 30%;
+  max-width: 30%;
+
+}
+.middlediv{
+  background-color: cadetblue;
+  border-radius: 13px;
+  margin-left: 3%;
+  margin-top: 1%;
+  
+}
+.rightdiv img{
+  max-width: 30%;
+  max-height: 30%;
+}
+.rightdiv{
+  background-color: cornsilk;
+  border-radius: 13px;
+  margin-left: 3%;
+  margin-top: 1%;
+}
+/* 3rd */
+
+.imgsize img{
+  margin-top: 50px;
+  margin-left: 30px;
+ padding: 155px;
+ height: 50% ;
+ width: 70%;
+}
+
+.developerlimit{
+  text-align: center;
+  margin-top: 50%;
+  padding-left: 40%;
+  padding-right: 30%;
+}
+footer p{
+  text-align: center;
 }
